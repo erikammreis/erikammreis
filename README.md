@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/erika-macedo-desenvolvedora-fullstack lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba0WhDtkGS1KlHncr6s5W8g%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/erikammreis/erikammreis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
