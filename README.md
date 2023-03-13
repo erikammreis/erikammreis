@@ -13,8 +13,11 @@
 <br>
 - ⚡ Fun fact: Currently developing a finance management tool project 
 </p>
+ 
+ ![snake gif](https://github.com/erikammreis/erikammreis/blob/output/github-contribution-grid-snake.svg)
 <div align="center"> <a href="https://github.com/erikammreis"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikammreis&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikammreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
  <br>
+ 
 <div  align="center"> 
 <h2>I am learning</h2>
   
@@ -35,4 +38,5 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/erika-macedo-desenvolvedora-fullstack lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba0WhDtkGS1KlHncr6s5W8g%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 
