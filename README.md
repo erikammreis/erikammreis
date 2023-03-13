@@ -1,14 +1,12 @@
-## Hello, Devs!! 
-#My name is erika👋
-<!-- **erikammreis/erikammreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: 
+## Hello, Devs!! My name is erika👋
+#Here are some ideas to get you started: 
 - 🌱 I’m currently learning java e python 
 - 👯 I’m looking to collaborate on frontend and backend projects 
 - 🤔 I’m looking for help with to gain experience and do an internship 
 - 📫 How to reach me: erikammoreira16@gmail.com 
 - 😄 Pronouns: ela/dela 
 - ⚡ Fun fact: Currently developing a finance management tool project 
-<div> <a href="https://github.com/seu-usuário-aqui"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
+<div> <a href="https://github.com/erikammreis"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikammreis&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikammreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
 ## Tools and Technologies
 ## I am learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
