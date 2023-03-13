@@ -2,10 +2,15 @@
 <p>Here are some ideas to get you started: 
 <br>
 - 🌱 I’m currently learning java e python 
+<br>
 - 👯 I’m looking to collaborate on frontend and backend projects 
+<br>
 - 🤔 I’m looking for help with to gain experience and do an internship 
+<br>
 - 📫 How to reach me: erikammoreira16@gmail.com 
+<br>
 - 😄 Pronouns: ela/dela 
+<br>
 - ⚡ Fun fact: Currently developing a finance management tool project 
 </p>
 <div> <a href="https://github.com/erikammreis"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikammreis&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikammreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
