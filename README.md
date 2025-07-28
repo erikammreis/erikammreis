@@ -9,6 +9,8 @@
 <br>
 - 📫 How to reach me: erikammoreira16@gmail.com 
 <br>
+- <b>My professional account github: https://github.com/ErikaMMReisNexxto</b>
+ <br>
 - 😄 Pronouns: ela/dela 
 <br>
 - ⚡ Fun fact: Currently developing a finance management tool project 
